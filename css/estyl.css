@@ -1,0 +1,12 @@
+img {
+    width:200px;
+    
+}
+
+header {
+    background-color: rgba(240, 137, 89, 0.87);
+}
+
+.bg-dark{
+    background-color: sienna !important;
+}
