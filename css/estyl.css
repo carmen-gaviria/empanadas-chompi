@@ -1,12 +1,84 @@
-img {
+/*img {
     width:200px;
+    
+}*/
+.CASI{
+    border-radius: 20pt;
+    width: 400px;
+}
+.logo{
+    border-radius: 15pt;
+    width:100px;
+}
+.nav-navbar {
+    margin: 0 15px;
+    margin-right: 50pt;
+    background-color: rgba(245, 210, 14, 0.87);  
     
 }
 
+.nav-link:hover{
+    color: whitesmoke;
+}
+h1,h2,h3,h4 {
+    text-align: center;
+}
+
+
+
+
+
+
+
+#Contactanos{
+    background-color: rgba(245, 210, 14, 0.87); 
+}
+
+#nosotros{
+    background-image: url("../imagenes/2.jpg");
+    background-size:cover ;
+    background-position: center 80%;
+}
+
+
 header {
-    background-color: rgba(240, 137, 89, 0.87);
+   background-color: rgb(61, 22, 4) !important;
+    /* background-image: url("../imagenes/3.jpg");*/
+    background-size:cover ;
+    background-position: center 80%;
 }
 
 .bg-dark{
-    background-color: sienna !important;
+    background-color: rgb(61, 22, 4) !important;
+}
+
+.foto {
+    background-position: center;
+    background-size:cover;
+    /*background-image: url("../imagenes/1.jpg");*/
+    border-radius: 30pt;
+   }
+
+   .btn-success{
+    color:white;
+    background-color : #a73b09 !important;
+    border-color:  #a73b09 !important;
+
+}
+
+.btn-success:hover{
+    color:white;
+    background-color : #5c3305 !important;
+    border-color: #5c3305 !important;
+
+}
+
+footer {
+   
+   padding: 20px;
+   
+}
+
+.footer-link {
+    color: cornsilk;
 }
