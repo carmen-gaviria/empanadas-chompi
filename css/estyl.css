@@ -8,17 +8,16 @@
 }
 .logo{
     border-radius: 15pt;
-    width:100px;
+    width:200px;
 }
-.nav-navbar {
-    margin: 0 15px;
-    margin-right: 50pt;
-    background-color: rgba(245, 210, 14, 0.87);  
+.nav-link {
+font-size: 20px;
+} 
     
-}
+
 
 .nav-link:hover{
-    color: whitesmoke;
+    color: rgb(226, 17, 17);
 }
 h1,h2,h3,h4 {
     text-align: center;
